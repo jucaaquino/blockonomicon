@@ -1,0 +1,6 @@
+{
+	"parent": "blocko:item/template_player_hat",
+	"textures": {
+		"layer0": "blocko:item/book"
+	}
+}

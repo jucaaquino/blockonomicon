@@ -1,0 +1,83 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Straw Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "blocko:item/straw_hat"
+        }
+      },
+      {
+        "when": "Eye Patch",
+        "model": {
+          "type": "minecraft:model",
+          "model": "blocko:item/eye_patch"
+        }
+      },
+      {
+        "when": "Monocle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "blocko:item/monocle"
+        }
+      },
+      {
+        "when": "Book",
+        "model": {
+          "type": "minecraft:model",
+          "model": "blocko:item/book"
+        }
+      },
+      {
+        "when": "Bandana",
+        "model": {
+          "type": "minecraft:model",
+          "model": "blocko:item/bandana"
+        }
+      },
+      {
+        "when": "Bycocket",
+        "model": {
+          "type": "minecraft:model",
+          "model": "blocko:item/bycocket"
+        }
+      },
+      {
+        "when": "Fisherman Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "blocko:item/fisherman_hat"
+        }
+      },
+      {
+        "when": "Goggles",
+        "model": {
+          "type": "minecraft:model",
+          "model": "blocko:item/goggles"
+        }
+      },
+      {
+        "when": "Leaf",
+        "model": {
+          "type": "minecraft:model",
+          "model": "blocko:item/leaf"
+        }
+      },
+      {
+        "when": "Shepherd Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "blocko:item/shepherd_hat"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/carved_pumpkin"
+    }
+  }
+}
