@@ -47,7 +47,7 @@
         }
       },
       {
-        "when": "Fisherman Hat",
+        "when": "Tilley Hat",
         "model": {
           "type": "minecraft:model",
           "model": "blocko:item/fisherman_hat"
@@ -68,7 +68,7 @@
         }
       },
       {
-        "when": "Shepherd Hat",
+        "when": "Hive Hat",
         "model": {
           "type": "minecraft:model",
           "model": "blocko:item/shepherd_hat"
